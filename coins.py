@@ -1,5 +1,5 @@
 
-print("Please enter the amount of money to convert::\n")
+print("Please enter the amount of money to convert:\n")
 
 dollars = int(input("# of dollars: "))
 cents = int(input("# of cents: "))
